@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bruno Doeyo</title>
+    <link>https://www.doeyo.com.ar/</link>
+    <description>Recent content on Bruno Doeyo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    
+	<atom:link href="https://www.doeyo.com.ar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projectos</title>
+      <link>https://www.doeyo.com.ar/projects/</link>
+      <pubDate>Thu, 09 Jul 2020 23:28:59 -0300</pubDate>
+      
+      <guid>https://www.doeyo.com.ar/projects/</guid>
+      <description>Algunas publicaciones respectos distintos proyectos personales </description>
+    </item>
+    
+    <item>
+      <title>Acerca de site</title>
+      <link>https://www.doeyo.com.ar/about/</link>
+      <pubDate>Thu, 09 Jul 2020 21:51:23 -0300</pubDate>
+      
+      <guid>https://www.doeyo.com.ar/about/</guid>
+      <description>Sitio de la Familia Doeyo Webmail </description>
+    </item>
+    
+  </channel>
+</rss>
